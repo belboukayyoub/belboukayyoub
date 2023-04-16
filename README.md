@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VictorMono&weight=900&size=30&duration=1500&pause=1500&color=FDAE57&center=true&vCenter=true&width=500&lines=Hello!;I'AM+BELBOUK+Ayyoub;I'AM+A+FREELANCER;I'AM+A+WEB+DESIGNER;I'AM+A+WEB+DEVELOPER)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VictorMono&weight=900&size=30&duration=1500&pause=1500&color=FDAE57&center=true&vCenter=true&width=500&lines=Hey!+I'm+Ayyoub+;A+Full+Stack++Developer;And+a+Graphic+Designer;I'm+a+FREELANCER)
 
 </div>
 
@@ -25,8 +25,9 @@ Full Stack Developer with 4+ years of hands-on experience designing, developing 
 
 <div align="center">
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="mxlinux" width="30px" style="padding-right:10px;" src="./assets/img/mxlinux.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="./assets/img/bash.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="./assets/img/gitHub.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -37,7 +38,7 @@ Full Stack Developer with 4+ years of hands-on experience designing, developing 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="vuejs" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+<img align="left" alt="vuejs" width="30px" style="padding-right:10px;"  src="./assets/img/vuejs.svg" />
 <img align="left" alt="laravel" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
 <img align="left" alt="csharp" height="40px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 <img align="left" alt="php" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />

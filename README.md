@@ -75,4 +75,9 @@ Full Stack Developer with 4+ years of hands-on experience designing, developing 
 
 ![Visitors](https://profile-counter.glitch.me/belboukayyoub/count.svg)
 
+
+
+
+![snake gif](https://github.com/belboukayyoub/belboukayyoub/blob/output/github-contribution-grid-snake.svg)
+
 </div>

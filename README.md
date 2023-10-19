@@ -66,7 +66,7 @@ Full Stack Developer with 4+ years of hands-on experience designing, developing 
 </div>
 <div align="center">
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=belboukayyoub&bg_color=0d1117&color=ffffff&line=fdae57&point=fdae60&area=true&hide_border=true)
+![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=belboukayyoub&bg_color=0d1117&color=ffffff&line=fdae57&point=fdae60&area=true&hide_border=true)
 </div>
 <!--visits-->   
 <div align="center">

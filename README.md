@@ -78,6 +78,6 @@ Full Stack Developer with 4+ years of hands-on experience designing, developing 
 
 
 
-![snake gif](https://github.com/belboukayyoub/belboukayyoub/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/belboukayyoub/belboukayyoub/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>

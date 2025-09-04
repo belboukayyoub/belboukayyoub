@@ -12,7 +12,8 @@ Full Stack Developer with 4+ years of hands-on experience designing, developing 
 ## Contact me
 
 [![Github_Page](https://img.shields.io/badge/|-Github_Page-black?logo=github&style=flat-square)](https://belboukayyoub.github.io/)
-[![Twitter](https://img.shields.io/badge/|-Twitter-blue?logo=twitter&style=flat-square)](https://twitter.com/belboukayyoub)
+[![Twitter](https://img.shields.io/badge/|-X-blue?logo=x&style=flat-square)](https://x.com/belboukayyoub)
+[![Twitter](https://img.shields.io/badge/|-BlueSky-blue?logo=bluesky&style=flat-square)](https://bsky.app/profile/belbouk.bsky.social)
 [![Whatsapp](https://img.shields.io/badge/|-Whatsapp-greenn?logo=whatsapp&style=flat-square)](https://wa.me/+212606196345)
 [![Linkedin](https://img.shields.io/badge/|-Linkedin-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/belbouk-ayyoub)
 [![Gmail](https://img.shields.io/badge/|-Gmail-red?logo=gmail&style=flat-square)](mailto:belboukayyoub@gmail.com)
